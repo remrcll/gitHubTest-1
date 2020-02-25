@@ -8,3 +8,4 @@ Blah bhal !
 
 This line has been added in the branch "branch3-mariam". 
 
+Adding new line to branch1
